@@ -1,0 +1,105 @@
+html, body{
+	margin:0px;
+}
+main{
+	width: 800px;
+	height:800px;
+	background:black;
+	border: black solid 8px;
+
+}
+
+.blok{
+	float:left;
+	
+	}
+
+#blok-1 {
+    height: 400px;
+    width: 390px;
+    background: red;
+    border-right: black solid 8px;
+   
+}
+#blok-2 {
+    height: 400px;
+    width: 40px;
+    background: yellow;
+    border-right: black solid 8px;
+}
+
+#blok-3 {
+    height: 400px;
+    width: 40px;
+    background: red;
+    border-right: black solid 8px;
+    
+}
+
+#blok-4 {
+    height: 400px;
+    width: 97px;
+    background:white;
+    border-right: black solid 8px;
+    
+}
+#blok-5 {
+    height: 400px;
+    width: 200px;
+    background: red;
+
+    
+    
+}
+#blok-6 {
+    height: 200px;
+    width: 390px;
+    background: yellow;
+    border-right: black solid 8px;
+    border-top: black solid 8px;
+ }
+
+ #blok-7 {
+    height: 390px;
+    width: 400px;
+    background: white;
+    border-top: black solid 8px;
+    
+    
+}
+#blok-8 {
+    height: 184px;
+    width: 200px;
+    background: white;
+    margin-top:-190px;
+    border-top: black solid 8px;
+}
+
+#blok-9 {
+    height: 184px;
+    width: 90px;
+    background: blue;
+    margin-top:-190px;
+    margin-left: 8px;
+    border-top: black solid 8px;
+ }
+ #blok-10 {
+    height: 87px;
+    width: 84px;
+    background: red;
+    margin-top:-190px;
+    margin-left: 8px;
+    border-top: black solid 8px;
+    
+    
+}
+#blok-11 {
+    height: 87px;
+    width: 84px;
+    background: yellow;
+    margin-top:-93px;
+    margin-left: 8px;
+    border-top: black solid 8px;
+    
+    
+}
