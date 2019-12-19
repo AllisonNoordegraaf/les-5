@@ -64,11 +64,12 @@ main{
     width: 400px;
     background: white;
     border-top: black solid 8px;
+
     
     
 }
 #blok-8 {
-    height: 184px;
+    height: 183px;
     width: 200px;
     background: white;
     margin-top:-190px;
@@ -76,11 +77,11 @@ main{
 }
 
 #blok-9 {
-    height: 184px;
+    height: 182px;
     width: 90px;
     background: blue;
     margin-top:-190px;
-    margin-left: 8px;
+    margin-left: 100px;
     border-top: black solid 8px;
  }
  #blok-10 {
@@ -94,7 +95,7 @@ main{
     
 }
 #blok-11 {
-    height: 87px;
+    height: 85px;
     width: 84px;
     background: yellow;
     margin-top:-93px;
